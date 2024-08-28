@@ -248,7 +248,7 @@ npm run lint
 
 # User Authentication
 
-## React routing
+## 3. React routing
 
 1. By default react doesn't have included router so we need to install it manually with this command.
 
