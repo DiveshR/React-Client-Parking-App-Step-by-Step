@@ -1,9 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Creating a React Application
 
-Currently, two official plugins are available:
+```
+npm init vite@latest
+```
+We have selected the following options.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-Client-Parking-App-Step-by-Step
+✔ Project name: … React-Car-Parking-App-Demo
+✔ Select a framework: › React
+✔ Select a variant: › JavaScript
+
+cd React-Car-Parking-App-Demo
+```
+npm install
+npm run dev
+```
